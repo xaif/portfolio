@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['WordPress', 'Figma', 'Photoshop', 'Google Sheets', 'Make.com', 'Bash'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +135,32 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi! My name is Huzaifa Dhapai, and I'm passionate about tech, understanding how things
+              work, and writing about it all. My journey into this fascinating world began in 2015,
+              and since then, I've been captivated by the mechanics behind the scenes of things.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              For the past six years, I've been with{' '}
+              <a href="https://iide.co/" target="_blank" rel="noreferrer">
+                IIDE
+              </a>
+              , wearing multiple hats—from heading tech to Digital Marketing Trainer, Social Media
+              Marketing, Web Development, Business Automation Expert to a Data Analyst. Currently,
+              I'm leading the Automation and Learning Management System team.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              My primary focus these days is on establishing{' '}
+              <a href="https://iide.co/" target="_blank" rel="noreferrer">
+                WebVerge
+              </a>
+              , a web hosting company, and rebuilding Bookmark, a learning management system, from
+              the ground up. In term of technology, I'm proficient with Figma, WordPress, and Adobe
+              Photoshop.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies & softwares I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
@@ -173,10 +172,10 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/Xaif.jpeg"
               width={500}
               quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
+              formats={['AUTO', 'WEBP', 'JPEG', 'AVIF']}
               alt="Headshot"
             />
           </div>
