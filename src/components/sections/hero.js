@@ -60,27 +60,26 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Huzaifa Dhapai</h2>;
+  const two = <h2 className="big-heading">Huzaifa Dhapai.</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I’m a tech product manager specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building, a web hosting company & Learning Management System
-        at{' '}
+        I’m a tech product manager specializing in designing & maintaining exceptional digital
+        experiences. Currently, I’m focused on building, a hosting company at at{' '}
         <a href="https://webverge.io/" target="_blank" rel="noreferrer">
           WebVerge
+        </a>{' '}
+        & LMS at{' '}
+        <a href="https://iide.co" target="_blank" rel="noreferrer">
+          IIDE
         </a>
         .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://webverge.io"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="https://webverge.io" target="_blank" rel="noreferrer">
       Check out my Resume!
     </a>
   );
