@@ -152,7 +152,7 @@ const About = () => {
 
             <p>
               My primary focus these days is on establishing{' '}
-              <a href="https://iide.co/" target="_blank" rel="noreferrer">
+              <a href="https://webverge.io/" target="_blank" rel="noreferrer">
                 WebVerge
               </a>
               , a web hosting company, and rebuilding Bookmark, a learning management system, from
