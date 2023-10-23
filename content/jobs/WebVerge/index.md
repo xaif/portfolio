@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
+date: '2020-05-05'
 title: 'UI Engineer Co-op'
-company: 'Apple'
+company: 'WebVerge'
 location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+range: 'May 2020 - Present'
+url: 'https://webverge.io/'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
