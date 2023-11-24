@@ -3,7 +3,7 @@ date: '2015-08-19'
 title: 'Founder'
 company: 'TechVerge'
 location: 'Northeastern University'
-range: '2015 - 2020'
+range: '2015 - Present'
 url: 'https://techverge.io'
 ---
 
