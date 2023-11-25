@@ -61,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Huzaifa Dhapai.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I Design things for the web.</h3>;
   const four = (
     <>
       <p>
@@ -80,7 +80,7 @@ const Hero = () => {
   );
   const five = (
     <a className="email-link" href="https://webverge.io" target="_blank" rel="noreferrer">
-      Check out my Resume!
+      Checkout WebVerge!
     </a>
   );
 
