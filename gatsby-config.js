@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Huzaifa Dhapai',
     description:
-      'Huzaifa Dhapai is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Huzaifa Dhapai is a product designer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://xaif.in', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@xaif1',
