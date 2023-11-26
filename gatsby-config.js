@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Huzaifa Dhapai',
+    title: 'Huzaifa Dhapai - Product Manager',
     description:
       'Huzaifa Dhapai is a product designer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://xaif.in', // No trailing slash allowed!
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Huzaifa Dhapai',
+        name: 'Huzaifa Dhapai - Product Manager',
         short_name: 'Huzaifa Dhapai',
         start_url: '/',
         background_color: config.colors.darkNavy,
