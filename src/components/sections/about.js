@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['WordPress', 'Figma', 'Photoshop', 'Google Sheets', 'Make.com', 'Bash'];
+  const skills = ['WordPress', 'Figma', 'Photoshop', 'Google Sheets'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,19 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Huzaifa Dhapai, and I'm passionate about tech, understanding how things
-              work, and writing about it all. My journey into this fascinating world began in 2015,
-              and since then, I've been captivated by the mechanics behind the scenes of things.
+              Hey there! I'm Huzaifa Dhapai, a tech enthusiast with a knack for diving deep into how
+              things tick and sharing my insights through writing. My tech adventure kicked off in
+              2015, and it's been a thrilling ride ever since. I'm totally hooked on exploring the
+              nuts and bolts that make our digital world spin.
             </p>
 
             <p>
-              For the past six years, I've been with{' '}
+              Over the last six years, my journey with{' '}
               <a href="https://iide.co/" target="_blank" rel="noreferrer">
                 IIDE
-              </a>
-              , wearing multiple hats—from heading tech to Digital Marketing Trainer, Social Media
-              Marketing, Web Development, Business Automation Expert to a Data Analyst. Currently,
-              I'm leading the Automation and Learning Management System team.
+              </a>{' '}
+              has been nothing short of a rollercoaster. I've donned many hats, from leading tech
+              teams to teaching digital marketing, social media strategies, web development, and
+              even mastering business automation and data analysis. Now, I'm leading Automation and
+              LMS team.
             </p>
 
             <p>
@@ -155,12 +157,15 @@ const About = () => {
               <a href="https://webverge.io/" target="_blank" rel="noreferrer">
                 WebVerge
               </a>
-              , a web hosting company, and rebuilding Bookmark, a learning management system, from
-              the ground up. In term of technology, I'm proficient with Figma, WordPress, and Adobe
-              Photoshop.
+              , a web hosting company, and Bookmark, a learning management system, from the ground
+              up. In term of technology, I'm proficient with Figma, WordPress, Google Sheets, Adobe
+              Photoshop and the list goes on.
             </p>
 
-            <p>Here are a few technologies & softwares I’ve been working with recently:</p>
+            <p>
+              Here's a sneak peek at some of the cool technologies and software I've been tinkering
+              with lately:
+            </p>
           </div>
 
           <ul className="skills-list">

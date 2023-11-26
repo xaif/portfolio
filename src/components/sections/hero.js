@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a tech product manager specializing in designing & maintaining exceptional digital
+        I’m a product manager specializing in designing & maintaining exceptional digital
         experiences. Currently, I’m focused on building, a hosting company at at{' '}
         <a href="https://webverge.io/" target="_blank" rel="noreferrer">
           WebVerge
