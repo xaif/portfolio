@@ -135,36 +135,35 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! I'm Huzaifa Dhapai, a tech enthusiast with a knack for diving deep into how
-              things tick and sharing my insights through writing. My tech adventure kicked off in
-              2015, and it's been a thrilling ride ever since. I'm totally hooked on exploring the
-              nuts and bolts that make our digital world spin.
+              Hello! I'm Huzaifa Dhapai. I love getting to the bottom of how tech works and then
+              sharing what I learn through my writing. I started this tech journey back in 2015, and
+              it's been an amazing experience exploring all the moving parts in our digital
+              landscape.
             </p>
 
             <p>
-              Over the last six years, my journey with{' '}
+              For the past six years, I've been part of the{' '}
               <a href="https://iide.co/" target="_blank" rel="noreferrer">
                 IIDE
               </a>{' '}
-              has been nothing short of a rollercoaster. I've donned many hats, from leading tech
-              teams to teaching digital marketing, social media strategies, web development, and
-              even mastering business automation and data analysis. Now, I'm leading Automation and
-              LMS team.
+              family, where it's been quite the adventure. I've tackled a variety of roles, from
+              leading technical teams to teaching topics like digital marketing and social media
+              strategies, web development, and even diving into business automation and data
+              analysis. These days, I'm heading up the Automation and LMS team.
             </p>
 
             <p>
-              My primary focus these days is on establishing{' '}
+              Right now, I'm focusing on building two big projects:{' '}
               <a href="https://webverge.io/" target="_blank" rel="noreferrer">
                 WebVerge
               </a>
-              , a web hosting company, and Bookmark, a learning management system, from the ground
-              up. In term of technology, I'm proficient with Figma, WordPress, Google Sheets, Adobe
-              Photoshop and the list goes on.
+              , a web hosting company, and Bookmark, a learning management system, right from
+              scratch.
             </p>
 
             <p>
-              Here's a sneak peek at some of the cool technologies and software I've been tinkering
-              with lately:
+              Let me give you a quick look at some of the cool tech and software that's been keeping
+              me busy lately:
             </p>
           </div>
 
