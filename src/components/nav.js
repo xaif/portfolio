@@ -211,7 +211,7 @@ const Nav = ({ isHome }) => {
       href="/trainer-profile.pdf"
       target="_blank"
       rel="noopener noreferrer">
-      Trainer Profile
+      Profile
     </a>
   );
 

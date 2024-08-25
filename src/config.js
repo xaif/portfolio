@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'xaif@protonmail.com',
+  email: 'me@xaif.in',
 
   socialMedia: [
     {
@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/xaif1',
+      url: 'https://x.com/xaif1',
     },
     {
       name: 'Linkedin',

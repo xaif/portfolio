@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Huzaifa Dhapai - Product Manager',
+    title: 'Huzaifa Dhapai - AI & Digital Marketing Consultant',
     description:
-      'Huzaifa Dhapai is a product designer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'I help startups and businesses with their tech and marketing needs. Also, I train people in AI, Tech & Digital Marketing',
     siteUrl: 'https://xaif.in', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@xaif1',
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Huzaifa Dhapai - Product Manager',
+        name: 'Huzaifa Dhapai - AI & Digital Marketing Consultant',
         short_name: 'Huzaifa Dhapai',
         start_url: '/',
         background_color: config.colors.darkNavy,

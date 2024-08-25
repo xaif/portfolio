@@ -61,26 +61,18 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Huzaifa Dhapai.</h2>;
-  const three = <h3 className="big-heading">I Design things for the web.</h3>;
+  const three = <h3 className="medium-heading">I Train & Consult on AI & Marketing.</h3>;
   const four = (
     <>
       <p>
-        I’m a product manager specializing in designing & maintaining exceptional digital
-        experiences. Currently, I’m focused on building, a hosting company at at{' '}
-        <a href="https://webverge.io/" target="_blank" rel="noreferrer">
-          WebVerge
-        </a>{' '}
-        & LMS at{' '}
-        <a href="https://iide.co" target="_blank" rel="noreferrer">
-          IIDE
-        </a>
-        .
+        I'm a AI, Tech & Marketing consultant and trainer. I help startups and businesses with their
+        tech and marketing needs. Also, I train people in AI, Tech & Digital Marketing
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="https://webverge.io" target="_blank" rel="noreferrer">
-      Checkout WebVerge!
+    <a className="email-link" href="/trainer-profile.pdf" target="_blank" rel="noreferrer">
+      Trainer Profile
     </a>
   );
 
