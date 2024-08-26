@@ -61,12 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Huzaifa Dhapai.</h2>;
-  const three = <h3 className="medium-heading">I Train & Consult on AI & Marketing.</h3>;
+  const three = <h3 className="medium-heading">I train & consult on AI & Marketing.</h3>;
   const four = (
     <>
       <p>
-        I'm a AI, Tech & Marketing consultant and trainer. I help startups and businesses with their
-        tech and marketing needs. Also, I train people in AI, Tech & Digital Marketing
+        I'm an AI, Tech & Marketing consultant and trainer. I help startups and businesses with
+        their tech and marketing needs. Also, I train employees & students in AI, Tech & Digital
+        Marketing.
       </p>
     </>
   );

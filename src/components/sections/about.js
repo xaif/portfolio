@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['WordPress', 'Figma', 'Photoshop', 'Google Sheets'];
+  const skills = [
+    'Mahindra & Mahindra',
+    'Pfizer',
+    'Volkswagen',
+    'Deepak Group',
+    'Publicis Media',
+    'Leo Burnett',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +142,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Huzaifa Dhapai. I love getting to the bottom of how tech works and then
+              Hi! My name is Huzaifa Dhapai (Xaif). I am passionate about three things in my life:
+              teaching, technology, and marketing.
+            </p>
+            <p>
+              It all began in 2015 when I realized I had a knack for breaking down complex tech
+              topics into simple, easy-to-understand bits. This led to my first tech blog,
+              Techverge, and I discovered my talent for teaching.
+            </p>
+            <p>
+              I began working at IIDE - The Digital School in July 2017. I gained knowledge on web
+              development, digital marketing, product management (LMS), business innovation, and
+              automation.
+            </p>
+            <p>
+              Over the past 9 years, I have gained experience in teaching, marketing, tech, and AI.
+              I am now embarking on a consulting career, where I help businesses grow by developing
+              effective systems, operations, marketing strategies, and technology solutions.
+              Additionally, I train company teams to foster efficient growth.
+            </p>
+            <p>Here's a quick overview of the brands I have worked with:</p>
+
+            {/* <p>
+              Hi! I'm Huzaifa Dhapai (Xaif). I love getting to the bottom of how tech works and then
               sharing what I learn through my writing. I started this tech journey back in 2015, and
               it's been an amazing experience exploring all the moving parts in our digital
               landscape.
@@ -164,7 +193,7 @@ const About = () => {
             <p>
               Let me give you a quick look at some of the cool tech and software that's been keeping
               me busy lately:
-            </p>
+            </p> */}
           </div>
 
           <ul className="skills-list">
