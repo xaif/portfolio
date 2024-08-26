@@ -6,6 +6,6 @@ location: 'Boston, MA'
 range: 'June - Aug 2015'
 ---
 
-- Began my journey at XposedGeek with a simple passion: I loved their content. So much so, I reached out and soon found myself diving headfirst into the world of blogging.
-- While there, I got my hands dirty with Affiliate Marketing, learned the ropes of SEO, played around with WordPress, and got acquainted with AdSense.
-- And the cherry on top? We saw a big uptick in website traffic during my time there.
+- Began my journey at XposedGeek with a simple passion: I loved their content. So much so, I reached out and started writing content for them.
+- While there, I got my hands dirty with Affiliate Marketing, learnt SEO, played around with WordPress, and got acquainted with AdSense.
+- The website traffic grew to nearly 50,000 views per month.
