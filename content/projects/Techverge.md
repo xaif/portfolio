@@ -2,7 +2,7 @@
 date: '2020-08-01'
 title: 'IVF India'
 github: ''
-external: 'https://ivfindia.co.in/'
+external: 'https://ivf-india.co.in/'
 tech:
   - WordPress
   - Elementor
